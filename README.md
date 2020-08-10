@@ -1,4 +1,4 @@
-# stack_app
+# Drumkit Application
 
 A new Flutter application.
 
